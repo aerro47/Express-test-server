@@ -55,5 +55,4 @@ partnerRouter.route('/:partnerId')
 });
 
 
-
 module.exports = partnerRouter;
